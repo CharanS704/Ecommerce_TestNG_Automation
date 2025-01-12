@@ -1,7 +1,7 @@
 
 # Ecommerce Automation using TestNG Framework
 
-The java maven automation project is developed using Selenium API library on TestNG automation framework which validates the ecommerce website https://rahulshettyacademy.com/client/
+The java maven automation project is developed using Selenium API library on TestNG automation framework which validates the test ecommerce website https://rahulshettyacademy.com/client/
 
 
 
@@ -12,7 +12,7 @@ The java maven automation project is developed using Selenium API library on Tes
 
 ## Concepts used:
 
-- Selenium 4 - To validate Web application via automation
+- Selenium 4 - To validate Web application via automation.
 - TestNG - To execute the test scripts in appropriate order and validate the expected results during execution.
 - Page Object Model - Design pattern supporting modular approach i.e segregate the assertion logic from page elements and hence increase in code readability and reducing redundant code.
 - DataProvider & Excel reader - To provide data to the test methods.
